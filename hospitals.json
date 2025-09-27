@@ -5945,8 +5945,8 @@
     "website": "http://www.nuffieldhealth.com/derbyhospital",
     "type": "Private",
     "phone": "0800 015 5020",
-    "lat": 52.9304,
-    "lng": -1.4789
+    "lat": 52.89358,
+    "lng": –1.53018
   },
   {
     "name": "Nuffield Health, Exeter Hospital",
@@ -7358,8 +7358,8 @@
     "website": "https://www.uhdb.nhs.uk/",
     "type": "NHS",
     "phone": "01332 340131",
-    "lat": 52.9156,
-    "lng": -1.4646
+    "lat": 52.91096,
+    "lng": -1.51303
   },
   {
     "name": "Royal Devon and Exeter Hospital (Wonford)",
